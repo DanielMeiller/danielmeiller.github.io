@@ -57,6 +57,7 @@
               <ul class="site-nav-ul js-clone-nav text-left d-none d-lg-inline-block">
                 <li class="has-children">
                   <a href="#home-section" class="nav-link">Home</a>
+                  <!--
                   <ul class="dropdown">
                     <li>
                       <a href="index.html">Hero Image BG</a>
@@ -73,6 +74,7 @@
                     <li>
                       <a href="index-right-menu.html">Right Menu</a>
                     </li>
+-->
                   </ul>
                 </li>
                 <li><a href="#portfolio-section" class="nav-link">Portfolio</a></li>
